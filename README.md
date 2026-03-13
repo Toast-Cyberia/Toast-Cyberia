@@ -36,4 +36,4 @@ Localisation : France
 - Email : tomasousamix@gmail.com
 - LinkedIn : [Lien vers mon profil](https://www.linkedin.com/in/tomass-sousa/)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toast-Cyberia&theme=tokyonight" alt="mystreak"/>
