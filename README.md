@@ -31,5 +31,3 @@ Localisation : France
 - Portugais : Langue maternelle (C2)
 - Anglais : Niveau professionnel (B2 - TOEIC 870/990)
 - Espagnol : Niveau intermédiaire (B1)
-
----
