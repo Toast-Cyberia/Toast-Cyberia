@@ -37,3 +37,6 @@ Localisation : France
 - LinkedIn : [Lien vers mon profil](https://www.linkedin.com/in/tomass-sousa/)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toast-Cyberia&theme=tokyonight" alt="mystreak"/>
+<a href = "https://github.com/madushadhanushka/simple-sqlite/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=madushadhanushka/simple-sqlite"/>
+</a>
