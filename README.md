@@ -2,6 +2,10 @@
 ![Last Commit](https://img.shields.io/github/last-commit/tomass-sousa/Cyberia-Trading-Indicator)
 ![Powered by Node.js](https://img.shields.io/badge/Powered%20by-Node.js-339933?logo=node.js&style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blueviolet)
+<a href="https://www.linkedin.com/in/tomass-sousa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/toast_cyberia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toast-Cyberia&theme=tokyonight" alt="mystreak"/>
 
 # Tomas SOUSA
 ### Conception Mécanique / Modélisation 3D | Spécialisation Robotique & Automatisme
@@ -35,8 +39,3 @@ Localisation : France
 ### Contact
 - Email : tomasousamix@gmail.com
 - LinkedIn : [Lien vers mon profil](https://www.linkedin.com/in/tomass-sousa/)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toast-Cyberia&theme=tokyonight" alt="mystreak"/>
-
-<a href="https://www.linkedin.com/in/tomass-sousa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/toast_cyberia/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
