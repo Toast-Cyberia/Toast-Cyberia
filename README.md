@@ -3,11 +3,7 @@
 ![Powered by Node.js](https://img.shields.io/badge/Powered%20by-Node.js-339933?logo=node.js&style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blueviolet)
 
----
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toast-Cyberia&theme=tokyonight" alt="mystreak"/>
-
----
 
 # Tomas SOUSA
 ### Conception Mécanique / Modélisation 3D | Spécialisation Robotique & Automatisme
