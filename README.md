@@ -4,10 +4,8 @@
 ![License](https://img.shields.io/badge/license-MIT-blueviolet)
 
 # Tomas SOUSA
-### Technicien en Conception Mécanique | Spécialisation Robotique & Automatisme
-Localisation : Talange, France
-
-Actuellement Technicien Documentation Technique chez Noremat, mon parcours s'articule autour du Génie Mécanique et de l'intégration de solutions automatisées pour l'industrie. Mon objectif est de concevoir et d'optimiser des systèmes robotiques performants.
+### Conception Mécanique / Modélisation 3D | Spécialisation Robotique & Automatisme
+Localisation : France
 
 ---
 
@@ -21,7 +19,7 @@ Actuellement Technicien Documentation Technique chez Noremat, mon parcours s'art
 
 ### Expériences clés
 - Technicien Documentation Technique (Noremat) : Gestion et création de ressources techniques complexes à partir de modèles CAO.
-- Technicien Conception Mécanique - Alternance (ArcelorMittal) : Études en bureau d'études sur des systèmes de levage et des dispositifs de protection laser.
+- Technicien Conception Mécanique - Alternance (ArcelorMittal Research) : Études en bureau d'études sur des systèmes de levage et des dispositifs de protection laser.
 - Lauréat Hackathon IUT de Metz 2023 : Médaille d'argent pour le développement d'une solution logicielle et matérielle d'optimisation de trajets.
 
 ---
@@ -36,4 +34,4 @@ Actuellement Technicien Documentation Technique chez Noremat, mon parcours s'art
 
 ### Contact
 - Email : tomasousamix@gmail.com
-- LinkedIn : [Lien vers ton profil][cite: 42]
+- LinkedIn : [[Lien vers ton profil](https://www.linkedin.com/in/tomass-sousa/)]
