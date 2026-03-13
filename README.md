@@ -34,4 +34,4 @@ Localisation : France
 
 ### Contact
 - Email : tomasousamix@gmail.com
-- LinkedIn : [[Lien vers ton profil](https://www.linkedin.com/in/tomass-sousa/)]
+- LinkedIn : [[Lien vers mon profil](https://www.linkedin.com/in/tomass-sousa/)]
