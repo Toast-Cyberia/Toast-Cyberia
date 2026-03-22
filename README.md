@@ -20,7 +20,7 @@ Localisation : France
 ---
 
 ### Expériences clés
-- Technicien Documentation Technique (Noremat) : Gestion et création de ressources techniques.
+- Technicien Documentation Technique (Noremat) : Rédaction, structuration et diffusion de documentations techniques.
 - Technicien Conception Mécanique - Alternance (ArcelorMittal Research) : Études en bureau d'études sur des systèmes de levage et des dispositifs de protection laser.
 - Lauréat Hackathon IUT de Metz 2023 : Médaille d'argent pour le développement d'une solution logicielle et matérielle d'optimisation de trajets.
 
