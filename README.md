@@ -12,19 +12,16 @@ Localisation : France
 ---
 
 ### Domaines d'expertise
-- Conception & CAO : Maîtrise avancée de Creo, SolidWorks, CATIA, TopSolid et Inventor.
-- Ingénierie Mécanique : Dimensionnement de motorisations, calculs hydrauliques, analyses structurelles et simulations thermiques
-- Automatisme & Robotique : Programmation de systèmes automatisés (Grafcet), gestion des capteurs/actionneurs et logique de robotique industrielle
-- Documentation Technique : Création de vues éclatées CAO, rédaction de manuels d'utilisation et gestion d'un ERP
-- Programmation : Développement de scripts et outils d'analyse en Python, JavaScript, C++ et PineScript. 
+- Conception & Ingénierie Mécanique : Maîtrise avancée des principaux outils CAO du marché (Creo, SolidWorks, CATIA, TopSolid, Inventor), couvrant le dimensionnement, les calculs hydrauliques, les analyses structurelles et les simulations thermiques.
+- Automatisme & Documentation : Programmation de systèmes automatisés (Grafcet), logique de robotique industrielle, rédaction de manuels techniques, vues éclatées CAO et gestion ERP.
+- Programmation : Développement de scripts et outils d'analyse en Python, JavaScript, C++ et PineScript.
 
 ---
 
 ### Expériences clés
-- Technicien Documentation Technique (Noremat) : Rédaction, structuration, diffusion de documentations techniques et gestion d'un ERP
-- Technicien Conception Mécanique - Alternance (ArcelorMittal Research) : Projets en bureau d'études sur des systèmes de levage et des dispositifs de mesure laser
-- Lauréat Hackathon IUT de Metz 2023 : Médaille d'argent pour le développement d'une solution logicielle et matérielle d'optimisation de trajets
-
+- Documentation Technique - Noremat : Rédaction, structuration et diffusion de documentations industrielles, gestion ERP
+- Bureau d'études - ArcelorMittal Research : Conception de systèmes de levage et de dispositifs de mesure laser.
+- Hackathon IUT de Metz 2023 : Médaille d'argent pour une solution logicielle et matérielle d'optimisation de trajets
 ---
 
 ### Compétences linguistiques
