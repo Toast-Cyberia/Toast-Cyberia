@@ -68,9 +68,9 @@ Téléopération d'un robot mobile via ROS (Noetic / Melodic). Publication de co
 
 | Période | Rôle | Entreprise |
 |---------|------|------------|
-| 2024 | Bureau d'études | **ArcelorMittal Research** — Conception de systèmes de levage et dispositifs de mesure laser |
-| 2023 | Documentation technique | **Noremat** — Rédaction de manuels industriels, vues éclatées CAO, gestion ERP |
-| 2023 | Hackathon IUT de Metz | **Médaille d'argent** — Solution logicielle et matérielle d'optimisation de trajets |
+| 2024 | Bureau d'études | **ArcelorMittal Research** - Conception de systèmes de levage et dispositifs de mesure laser |
+| 2023 | Documentation technique | **Noremat** - Rédaction de manuels industriels, vues éclatées CAO, gestion ERP |
+| 2023 | Hackathon IUT de Metz | **Médaille d'argent** - Solution logicielle et matérielle d'optimisation de trajets |
 
 ---
 
