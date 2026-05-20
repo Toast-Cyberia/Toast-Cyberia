@@ -17,8 +17,6 @@ Passionné par les **systèmes automatisés et la robotique industrielle**, je c
 
 J'ai eu l'opportunité de travailler en bureau d'études au centre de recherche d'**ArcelorMittal Maizières Research** (conception de systèmes de levage et de dispositifs de mesure laser) et de rédiger des documentations techniques industrielles chez **Noremat** avec gestion ERP. En dehors de mes études, je développe des projets personnels autour de l'automatisme et de la robotique que tu peux retrouver ci-dessous.
 
-> 📍 France - Région Grand Est (Nancy / Metz)
-
 ---
 
 ## Compétences techniques
