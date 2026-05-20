@@ -6,11 +6,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tomass--sousa-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tomass-sousa/)
 ![Profile views](https://komarev.com/ghpvc/?username=Toast-Cyberia&style=flat-square&color=blue)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toast-Cyberia&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
 <div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toast-Cyberia&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
