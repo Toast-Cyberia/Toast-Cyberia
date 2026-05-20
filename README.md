@@ -15,9 +15,9 @@
 
 Passionné par les **systèmes automatisés et la robotique industrielle**, je combine une solide base en conception mécanique (CAO) avec des compétences en programmation d'automates et en développement Python / C++.
 
-J'ai eu l'opportunité de travailler en bureau d'études chez **ArcelorMittal Research** (conception de systèmes de levage et de dispositifs de mesure laser) et de rédiger des documentations techniques industrielles chez **Noremat** avec gestion ERP. En dehors de mes études, je développe des projets personnels autour de l'automatisme et de la robotique que tu peux retrouver ci-dessous.
+J'ai eu l'opportunité de travailler en bureau d'études au centre de recherche d'**ArcelorMittal Maizières Research** (conception de systèmes de levage et de dispositifs de mesure laser) et de rédiger des documentations techniques industrielles chez **Noremat** avec gestion ERP. En dehors de mes études, je développe des projets personnels autour de l'automatisme et de la robotique que tu peux retrouver ci-dessous.
 
-> 📍 France — Région Grand Est (Nancy / Metz)
+> 📍 France - Région Grand Est (Nancy / Metz)
 
 ---
 
@@ -45,21 +45,21 @@ J'ai eu l'opportunité de travailler en bureau d'études chez **ArcelorMittal Re
 
 ## Projets GitHub
 
-### 🔧 [Grafcet SFC Simulator](https://github.com/Toast-Cyberia/grafcet-sfc-simulator)
+### [Grafcet SFC Simulator](https://github.com/Toast-Cyberia/grafcet-sfc-simulator)
 Moteur GRAFCET générique (IEC 61131-3) appliqué à un convoyeur de tri industriel. Simule capteurs, actionneurs et statistiques de production. Visualisation matplotlib du schéma SFC et des résultats.
 
 `Python` · `Automatisme` · `IEC 61131-3` · `matplotlib`
 
 ---
 
-### ⚙️ [PID Controller](https://github.com/Toast-Cyberia/PID-Controller)
+### [PID Controller](https://github.com/Toast-Cyberia/PID-Controller)
 Implémentation d'un régulateur PID en C++ pour la régulation de vitesse moteur. Gestion du pas de temps avec `std::chrono`, simulation de la réponse du système.
 
 `C++` · `Régulation` · `Contrôle moteur`
 
 ---
 
-### 🤖 [ROS Basic Control](https://github.com/Toast-Cyberia/ROS-Basic-Control)
+### [ROS Basic Control](https://github.com/Toast-Cyberia/ROS-Basic-Control)
 Téléopération d'un robot mobile via ROS (Noetic / Melodic). Publication de commandes `geometry_msgs/Twist` sur `/cmd_vel` depuis le clavier, avec arrêt sécurisé sur interruption.
 
 `Python` · `ROS` · `Robotique mobile`
