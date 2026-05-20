@@ -7,14 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tomass--sousa-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tomass-sousa/)
 ![Profile views](https://komarev.com/ghpvc/?username=Toast-Cyberia&style=flat-square&color=blue)
 
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toast-Cyberia&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-</div>
-
 ---
 
 ## À propos
@@ -86,9 +78,17 @@ Téléopération d'un robot mobile via ROS (Noetic / Melodic). Publication de co
 
 | Langue | Niveau |
 |--------|--------|
-| 🇫🇷 Français | Langue maternelle — C2 |
-| 🇧🇷 Portugais / Brésilien | Langue maternelle — C2 |
-| 🇬🇧 Anglais | Professionnel — B2 (TOEIC 870/990) |
-| 🇪🇸 Espagnol | Intermédiaire — B1 |
+| 🇫🇷 Français | Langue maternelle - C2 |
+| 🇵🇹 Portugais / Brésilien | Langue maternelle - C2 |
+| 🇬🇧 Anglais | Professionnel - B2 (TOEIC 870/990) |
+| 🇪🇸 Espagnol | Intermédiaire - B1 |
 
 ---
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Toast-Cyberia&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+</div>
