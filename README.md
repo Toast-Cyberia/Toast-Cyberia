@@ -74,10 +74,10 @@ Téléopération d'un robot mobile via ROS (Noetic / Melodic). Publication de co
 
 ## Langues
 
-> Français - Langue maternelle - C2 
-> Portugais / Brésilien - Langue maternelle - C2 
-> Anglais Professionnel - B2 (TOEIC 870/990) 
-> Espagnol Intermédiaire - B1 
+Français - Langue maternelle - C2 
+Portugais / Brésilien - Langue maternelle - C2 
+Anglais Professionnel - B2 (TOEIC 870/990) 
+Espagnol Intermédiaire - B1 
 
 ---
 
