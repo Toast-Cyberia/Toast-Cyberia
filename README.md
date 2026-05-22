@@ -13,9 +13,11 @@
 
 ## À propos
 
-> Passionné par les **systèmes automatisés et la robotique industrielle**, je combine une solide base en conception mécanique (CAO) avec des compétences en programmation d'automates et en développement.
+Passionné par les **systèmes automatisés et la robotique industrielle**, je combine une solide base en conception mécanique (CAO) avec des compétences en programmation d'automates et en développement.
 
-> J'ai eu l'opportunité de travailler en bureau d'études au centre de recherche d'**ArcelorMittal Maizières Research** (conception de systèmes de levage et de dispositifs de mesure laser) et de rédiger des documentations techniques industrielles chez **Noremat** ainsi que de la gestion d'un ERP. En dehors de mes études, je développe des projets personnels autour de l'automatisme et de la robotique.
+J'ai eu l'opportunité de travailler en bureau d'études au centre de recherche d'**ArcelorMittal Maizières Research** (conception de systèmes de levage et de dispositifs de mesure laser) et de rédiger des documentations techniques industrielles chez **Noremat** ainsi que de la gestion d'un ERP. 
+
+En dehors de mes études, je développe des projets personnels autour de l'automatisme et de la robotique.
 
 ---
 
