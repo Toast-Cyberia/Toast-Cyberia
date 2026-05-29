@@ -68,7 +68,7 @@ Téléopération d'un robot mobile via ROS (Noetic / Melodic). Publication de co
 
 ## Expériences clés
 
-2026 - Doc technique - **Noremat** - Rédaction de manuels industriels, vues éclatées CAO, gestion ERP 
+2026 - Documentation technique - **Noremat** - Rédaction de manuels industriels, vues éclatées CAO, gestion ERP 
 
 2025 - Bureau d'études - **ArcelorMittal Research** - Conception de systèmes de levage et dispositifs de mesure laser 
 
