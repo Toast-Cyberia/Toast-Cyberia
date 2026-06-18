@@ -14,7 +14,9 @@
 ## À propos
 
 Diplômé en génie mécanique, je me spécialise vers l'automatisme et la robotique industrielle.
+
 J'ai travaillé en bureau d'études chez ArcelorMittal Research (systèmes de levage, mesure laser), puis en documentation technique chez Noremat sur l'intégration de bras et véhicules porteurs.
+
 Ici, je publie mes projets personnels en automatisme et robotique : Grafcet, régulation PID, ROS.
 
 ---
